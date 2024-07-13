@@ -3,7 +3,7 @@
     <footer class="mt-[500px] w-full bg-black h-40 mx-auto">
     <div class="grid grid-cols-3 mx-20 pt-5">
         <div class="w-1/5">
-            <img src="src/logo/logo1.jpg" alt="" class="w-36 mb-5">
+            <img src="./logo/logo.jpg" alt="" class="w-36 mb-5">
             <span class="text-white">&copy;HDToday</span>
         </div>
         <div class="w-4/5">
