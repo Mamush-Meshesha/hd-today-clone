@@ -71,7 +71,7 @@ const searchMovies = () => {
             <header>
                 <div class="flex w-full mx-auto z-50 justify-evenly ml-36 pt-10">
                     <div class="w-1/5">
-                        <img src="src/logo/logo1.jpg" alt="" class="w-[120px]">
+                        <img src="./logo/logo.jpg" alt="" class="w-[120px]">
                     </div>
                     <div class="w-3/5 ml-32">
                         <RouterLink to="/" class="mr-5 text-white">HOME </RouterLink>
