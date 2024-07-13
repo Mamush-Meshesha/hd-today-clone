@@ -72,7 +72,7 @@ const hideDropDownGen = () => {
         <div class="flex w-full mx-auto z-50 justify-evenly ml-36 pt-10">
           <div class="w-1/5">
             <img
-              src="/src/logo/logo1.jpg"
+              src="./logo/logo.jpg"
               alt=""
               class="w-[120px] bg-transparent"
             />
