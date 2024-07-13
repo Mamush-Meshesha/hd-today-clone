@@ -61,7 +61,7 @@ const searchMovies = () => {
       <img :src="data.img" alt="" />
       <header class="flex justify-between mt-5">
         <div>
-          <img src="src/logo/logo1.jpg" alt="non" class="w-[170px] h-18 mt-0" />
+          <img src="src/logo/logo.jpg" alt="non" class="w-[170px] h-18 mt-0" />
         </div>
         <div class="w-2/5 flex justify-around">
           <RouterLink to="/" class="text-white">Home</RouterLink>
